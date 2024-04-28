@@ -1,0 +1,26 @@
+.card{
+    width: 400px;
+  height: 500px;
+  
+  padding: 5px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  background-image: linear-gradient(144deg,#332a2a, #f50a0a 50%, #262494);
+   position: absolute;
+  border: 2px solid transparent;
+  
+
+
+}
+.card:hover {
+    color: rgb(96, 171, 241);
+    transition: color 1s;
+  }
+  
+  
+
+  
+  
+
+  
+
+  
